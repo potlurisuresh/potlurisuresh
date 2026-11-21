@@ -1,39 +1,54 @@
 ### Suresh Potluri
+**Founder & CEO, [Maigha](https://maigha.com)** · Product & technical leadership across ventures · Pittsburgh, PA
 
-**Software architect and product builder** — domain modeling, secure systems, accountable engineering, and deliberate product development.
+Software architect and product builder. I care about **domain modeling, secure systems, accountable engineering**, and shipping with judgment—not demos for their own sake.
 
-I contribute to [Maigha](https://maigha.com)’s product-building work through owned-product development, **CoBuild** collaboration with domain specialists, and selected engineering engagements.
+Most of my recent work lives in **private repositories** across three organizations I have built with and for:
 
-These repositories contain **approved reference examples**, not proprietary product source code.
+| Organization | Role in the story |
+|--------------|-------------------|
+| **[Maigha](https://maigha.com)** | Founder & CEO — product-building company; owned products, CoBuild with domain partners, selected engineering engagements |
+| **Yaksee** | Earlier venture leadership — interactive broadcasting platform work (patent → multi-platform delivery) |
+| **Tapreco** | Founder & CTO — tax intelligence product leadership (CoBuild); deeper narrative on the executive site |
+
+Public GitHub is the **cleared window**: reference examples, learning systems, and architectural sketches. It is not a dump of proprietary product source.
 
 ---
 
-#### Focus
+#### What I work on
 
-- Domain modeling and secure multi-tenant patterns *(illustrative / synthetic where shown)*
-- Accountable engineering — clarity of ownership, review, and release discipline
-- AI systems learning and building blocks — experiments labeled as such, not production proof
-- Product judgment: what should be built before how it is built
+- **AI & agentic systems** — RAG, memory, tool-using agents, human-in-the-loop (propose → confirm → execute), evaluation harnesses  
+- **Multi-tenant SaaS** — isolation, RBAC, release discipline, quality gates  
+- **Platform & product** — turning domain insight into operable software; CoBuild with specialists who own the customer problem  
+- **Field delivery** — accountable ownership from architecture through production (including prior forward-deployed engineering)
 
-#### Highlighted work
+#### Where to look (public)
 
-| Repo | Why it’s here |
-|------|----------------|
-| [**AIAxioms**](https://github.com/potlurisuresh/AIAxioms) | First-principles AI building blocks — ML through agentic patterns |
-| [**AICrashCourse**](https://github.com/potlurisuresh/AICrashCourse) | Modular AI software building blocks |
-| [**pycore**](https://github.com/potlurisuresh/pycore) | Shared Python primitives and service abstractions |
-| [**node-postgres-prisma**](https://github.com/potlurisuresh/node-postgres-prisma) | Practical Node + Postgres + Prisma reference |
-| [**engineering-reference-examples**](https://github.com/potlurisuresh/engineering-reference-examples) | Synthetic evidence lanes: isolation, RBAC, CI gates, AI+HITL, ADRs |
-| [**Live555**](https://github.com/potlurisuresh/Live555) | Earlier systems / media craft (kept for history) |
+| | |
+|--|--|
+| **Executive site** | [sureshpotluri.com](https://sureshpotluri.com) |
+| **Company** | [maigha.com](https://maigha.com) |
+| **AI building blocks** | [AIAxioms](https://github.com/potlurisuresh/AIAxioms) · [AICrashCourse](https://github.com/potlurisuresh/AICrashCourse) |
+| **Platform primitives** | [pycore](https://github.com/potlurisuresh/pycore) · [node-postgres-prisma](https://github.com/potlurisuresh/node-postgres-prisma) |
+| **Evidence-style examples** | [engineering-reference-examples](https://github.com/potlurisuresh/engineering-reference-examples) — synthetic isolation, RBAC, CI gates, AI+HITL, ADRs |
+| **Earlier systems craft** | [Live555](https://github.com/potlurisuresh/Live555) (historical) |
 
-Course forks and older experiments remain on the account; they are not the primary story.
+Course forks and older experiments remain on the account; they are background, not the headline.
 
-#### Elsewhere
+---
 
-- Executive site: [sureshpotluri.com](https://sureshpotluri.com)
-- Company: [maigha.com](https://maigha.com)
-- Location: Pittsburgh, PA · USA / remote
+#### How to read this profile
 
-#### Note on evidence
+1. **Industry tenure** shows in the span of work—from systems/media and venture building through today’s AI and multi-tenant product platforms—not in a vanity metric.  
+2. **Private org repos** are where product IP and partner code stay. Public repos are labeled as reference or learning when that is what they are.  
+3. **AI** here means buildable patterns and honest limits—not unverifiable production claims.
 
-Public examples may include synthetic isolation, auth/RBAC sketches, CI/quality-gate samples, or AI evaluation / human-review patterns. They are **reference material** with documented limits — not claims about any specific production system or partner engagement.
+---
+
+<p align="left">
+  <a href="https://sureshpotluri.com">sureshpotluri.com</a>
+  ·
+  <a href="https://maigha.com">maigha.com</a>
+  ·
+  <a href="mailto:suresh@maigha.com">suresh@maigha.com</a>
+</p>
