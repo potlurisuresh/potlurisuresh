@@ -23,6 +23,7 @@ These repositories contain **approved reference examples**, not proprietary prod
 | [**AICrashCourse**](https://github.com/potlurisuresh/AICrashCourse) | Modular AI software building blocks |
 | [**pycore**](https://github.com/potlurisuresh/pycore) | Shared Python primitives and service abstractions |
 | [**node-postgres-prisma**](https://github.com/potlurisuresh/node-postgres-prisma) | Practical Node + Postgres + Prisma reference |
+| [**engineering-reference-examples**](https://github.com/potlurisuresh/engineering-reference-examples) | Synthetic evidence lanes: isolation, RBAC, CI gates, AI+HITL, ADRs |
 | [**Live555**](https://github.com/potlurisuresh/Live555) | Earlier systems / media craft (kept for history) |
 
 Course forks and older experiments remain on the account; they are not the primary story.
